@@ -112,3 +112,6 @@ will run the item model test that is found in that file on line 28.
 
 # Created By
 - [Chris Lewis](https://github.com/csvlewis)
+- [April Dagonese](https://github.com/aprildagonese)
+- [Zach Nager](https://github.com/nagerz)
+- [Julia Marco](https://github.com/juliamarco)
